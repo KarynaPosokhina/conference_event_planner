@@ -1,3 +1,11 @@
+The BudgetEase conference expense planner features include:
+- A dynamic user interface that updates in real time based on user selections
+- Components for venue selection, add-ons, and meal options
+- Redux integration using Redux Toolkit to manage state changes
+- Redux slices to manage different section states
+- Display selected items and their costs with a table in a pop-up window
+- Calculate and display subtotals and total costs based on user selections
+
 ![Conference Expense Planner - page-1](https://github.com/user-attachments/assets/16dbd03a-5806-452b-a61d-d7626f210d45)
 
 ![Conference Expense Planner - page-2](https://github.com/user-attachments/assets/7aaa5c7e-d1e5-438c-8ec3-a5c9640f4f77)
