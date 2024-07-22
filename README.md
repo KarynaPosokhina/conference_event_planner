@@ -1,3 +1,5 @@
+The Conference Event Planner application allows users to select and price the rooms in the conference center, add-on selections, like microphones and projectors, and meals for a given number of guests.
+
 The BudgetEase conference expense planner features include:
 - A dynamic user interface that updates in real time based on user selections
 - Components for venue selection, add-ons, and meal options
@@ -5,6 +7,7 @@ The BudgetEase conference expense planner features include:
 - Redux slices to manage different section states
 - Display selected items and their costs with a table in a pop-up window
 - Calculate and display subtotals and total costs based on user selections
+  
 
 ![Conference Expense Planner - page-1](https://github.com/user-attachments/assets/16dbd03a-5806-452b-a61d-d7626f210d45)
 
